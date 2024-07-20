@@ -61,3 +61,10 @@ Unit testing has been performed using SQL to ensure the accuracy and integrity o
 - **Interactive Exploration**: Use the dashboards to explore different aspects of the loan data.
 - **Insights Generation**: Analyze the KPIs to generate insights and recommendations.
 - **Reporting**: Create custom reports based on the visualizations.
+- ![image](https://github.com/user-attachments/assets/9e5f7c05-540d-4cbc-b12f-97dbc6a244a1)
+![Screenshot 2024-07-20 133914](https://github.com/user-attachments/assets/418b0e4e-e05f-4b06-a191-df25dd507401)
+![Screenshot 2024-07-20 133720](https://github.com/user-attachments/assets/833e66c4-d326-4af7-9b95-e7a21b744d4e)
+
+
+
+
